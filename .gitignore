@@ -1,0 +1,21 @@
+# Entornos virtuales de Python
+.venv/
+.venv312/
+venv/
+env/
+
+# Caches y archivos generados por Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Archivos locales del editor o del sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Capturas o salidas temporales
+captures/
+snapshots/
+*.log
